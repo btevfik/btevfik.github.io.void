@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Baris Tevfik</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <a href="index.html"><h1 class="title-name">Baris Tevfik</h1></a>
+        <p>personal website</p>
+
+        <p class="view"><a href="assets/resume.pdf" target="_blank">Résumé</a></p>
+        <p class="view"><a href="projects.html">Projects</a></p>
+	<p class="view"><a href="photos.html">Photos</a></p>
+
+      </header>
+      <section>
+        <h3><a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Photos</h3>
+<figure>
+<img src=pics/profile_img.jpg></img>
+<figcaption>Me</figcaption>
+</figure>
+<br>
+<figure>
+<img src=pics/bogaz.jpg></img>
+<figcaption>Istanbul (located on two continents: Asia and Europe)</figcaption>
+</figure>
+<br>
+<figure>
+<img src=pics/boston.jpg></img>
+<figcaption>Boston (old, buried in new)</figcaption>
+</figure>
+<br>
+<figure>
+<img src=pics/china.jpg></img>
+<figcaption>China (yes. i did climb it)</figcaption>
+</figure>
+<br>
+<figure>
+<img src=pics/devil_tower.jpg></img>
+<figcaption>Devil's Tower (from the UFO movie. Remember?)</figcaption>
+</figure>
+<br>
+<figure>
+<img src=pics/grand_canyon.jpg></img>
+<figcaption>Be careful. Don't fall !</figcaption>
+</figure>
+<br>
+<figure>
+<img src=pics/kapadokya.jpg></img>
+<figcaption>Cappadocia (Google it !)</figcaption>
+</figure>
+<br>
+<figure>
+<img src=pics/kolezyum.jpg></img>
+<figcaption>My name is Maximus Decimus Meridius.</figcaption>
+</figure>
+<br>
+<figure>
+<img src=pics/rushmore.jpg></img>
+<figcaption>They are watching you.</figcaption>
+</figure>
+
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> Updated 06/26/13</small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
